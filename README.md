@@ -6,4 +6,4 @@ TODO:
 
 - handle cancelled connections before the end of the task
 
-[![Audio Guide](https://img.icons8.com/color/48/000000/play--v1.png)](https://github.com/sg1o/working-with-queues/assets/36139340/9018ca71-1b9c-44d7-b419-543866ceb062)
+[![Listen](https://img.shields.io/badge/Listen-Audio%20Guide-blue?style=flat-square&logo=audiomack)](https://github.com/sg1o/working-with-queues/assets/36139340/9018ca71-1b9c-44d7-b419-543866ceb062)
